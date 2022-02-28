@@ -4,7 +4,7 @@
 - 🔭 I’m currently Student
 - 🌱 I’m currently learning : Java , Python and PHP 
 - 💬 Ask me about Programming 
-- ⚡ Fun fact: i also write poetry and Also Sketch
+- ⚡ Fun fact: i also do poetry and Also Sketch
 
 
 
