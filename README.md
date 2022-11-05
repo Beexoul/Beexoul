@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beexoul</h1>
-<h3 align="center">A coder</h3>
+<h3 align="center">A Coder and Script Kiddie </h3>
 
 - 🌱 I’m currently learning **React and React native**
 - 👯 I'm good at **frontend and UI designing**
