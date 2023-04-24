@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React and React native**
 - 👯 I'm good at **frontend and UI designing**
 - 📷 I'm a bad photographer
-- and a good student 😉😉 <br>
+- and a good student 😉😉
 -📧 shivarajpaudel.contact@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
