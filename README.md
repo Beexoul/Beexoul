@@ -6,6 +6,8 @@
 - 📷 I'm a bad photographer
 - and a good student 😉😉
 
+Email :shivarajpaudel.contact@gmail.com
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center" > 
