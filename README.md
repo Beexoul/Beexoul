@@ -5,7 +5,7 @@
 - 👯 I'm good at **frontend and UI designing**
 - 📧 shivarajpaudel.contact@gmail.com
 - 📷 I'm a bad photographer
-- and a good student 😉😉
+- and also a good student 😉😉
 
 
 <h3 align="left">Languages and Tools:</h3>
