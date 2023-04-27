@@ -56,4 +56,4 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Beexoul&show_icons=true&locale=en" alt="Beexoul" /></p>
+<img alt="Shiva Raj's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Beexoul&show_icons=true&theme=radical" width="50%" />
