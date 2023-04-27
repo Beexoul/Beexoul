@@ -6,7 +6,10 @@
 - 📧 shivarajpaudel.contact@gmail.com
 - 📷 I'm a bad photographer
 - and also a good student 😉😉
-
+<br>
+<img alt="Stats card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beexoul&theme=radical&layout=compact" width="42%" align="right" />
+<img alt="Shiva Raj's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Beexoul&show_icons=true&theme=radical" width="50%" />
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -56,5 +59,3 @@
        alt="Shiva Raj Paudel" height="30" width="40" />             
   </a>
 </p>
-<img alt="Stats card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beexoul&theme=radical&layout=compact" width="42%" align="right" />
-<img alt="Shiva Raj's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Beexoul&show_icons=true&theme=radical" width="50%" />
