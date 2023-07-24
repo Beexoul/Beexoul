@@ -1,9 +1,5 @@
   ![Banner](https://github.com/Beexoul/Beexoul/assets/97790932/22f03867-a61d-446e-b556-5f7a2feddda6)
 
-![programmer](https://github.com/Beexoul/Beexoul/assets/97790932/c41fb1a9-711c-4e6c-81c0-60cb637f68a8)
-
-
-
 <h1 align="center">Hi 👋, I'm Beexoul</h1>
 <h3 align="center">A passionate full-stack developer from Nepal</h3>
 
