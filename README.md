@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
+![Banner](Banner.jpg)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
