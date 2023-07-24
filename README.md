@@ -1,4 +1,4 @@
-(img src="https://cdn.dribbb1e.cæ/usersA162ø77/screenshots/3848914/progratmer.gif">
+(img src="[https://cdn.dribbb1e.cæ/usersA162ø77/screenshots/3848914/progratmer.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 <h1 align="center">Hi 👋, I'm Beexoul</h1>
 <h3 align="center">A passionate full-stack developer from Nepal</h3>
 
