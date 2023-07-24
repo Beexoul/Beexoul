@@ -1,5 +1,6 @@
-![Banner](Banner.jpg)
+![Banner](https://github.com/Beexoul/Beexoul/assets/97790932/7f87cb1e-893f-469d-a114-7f8da4c449be)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
 <h1 align="center">Hi 👋, I'm Beexoul</h1>
