@@ -1,5 +1,6 @@
-![Banner](https://github.com/Beexoul/Beexoul/assets/97790932/7f87cb1e-893f-469d-a114-7f8da4c449be)
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  ![Banner](https://github.com/Beexoul/Beexoul/assets/97790932/22f03867-a61d-446e-b556-5f7a2feddda6)
+
+![programmer](https://github.com/Beexoul/Beexoul/assets/97790932/c41fb1a9-711c-4e6c-81c0-60cb637f68a8)
 
 
 
